@@ -5,4 +5,4 @@ applications:
   host: hcp-cf-postgres-shree
   path: target/hcp-cf-postgres-tutorial-1.0-SNAPSHOT.jar
   services:
-  - postgres-service
+  - postgres1
